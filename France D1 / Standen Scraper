@@ -1,4 +1,4 @@
-name: France D1 Baseball Standen Scraper
+name: France D1 / Standen Scraper
 on:
   schedule:
     - cron: '0 * * * *'
