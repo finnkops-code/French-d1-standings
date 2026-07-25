@@ -1,18 +1,8 @@
 {
-  "bijgewerkt": "2026-07-25T17:03:53Z",
+  "bijgewerkt": "2026-07-25T19:14:29Z",
   "bron": "https://baseballtv.fr/en/classements/",
   "standen": {
     "Regular season": [
-      {
-        "positie": "1",
-        "team": "Montpellier Barracudas",
-        "logo": "https://static.wbsc.org/upload/51a28c3c-a894-cc4d-30ca-b8c705e5bd5d.png",
-        "w": "14",
-        "l": "6",
-        "t": "0",
-        "pct": ".700",
-        "gb": "-"
-      },
       {
         "positie": "1",
         "team": "Savigny-sur-Orge Lions",
@@ -24,44 +14,54 @@
         "gb": "-"
       },
       {
+        "positie": "2",
+        "team": "Montpellier Barracudas",
+        "logo": "https://static.wbsc.org/upload/51a28c3c-a894-cc4d-30ca-b8c705e5bd5d.png",
+        "w": "14",
+        "l": "7",
+        "t": "0",
+        "pct": ".667",
+        "gb": "0.5"
+      },
+      {
         "positie": "3",
         "team": "La Rochelle Boucaniers",
         "logo": "https://static.wbsc.org/upload/0050079f-5f9e-d803-8839-20992d9cfc18.jpg",
-        "w": "14",
+        "w": "15",
         "l": "8",
         "t": "0",
-        "pct": ".636",
-        "gb": "1"
+        "pct": ".652",
+        "gb": "0.5"
       },
       {
         "positie": "4",
         "team": "Rouen Huskies",
         "logo": "https://static.wbsc.org/assets/cms/teams/logo/a18c7fc9-a3ce-81e9-0c12-f2a5ec8eab1e.jpg",
         "w": "12",
-        "l": "8",
+        "l": "9",
         "t": "0",
-        "pct": ".600",
-        "gb": "2"
+        "pct": ".571",
+        "gb": "2.5"
       },
       {
         "positie": "5",
         "team": "Sénart Templiers",
         "logo": "https://static.wbsc.org/assets/cms/teams/logo/1071d9a2-1565-7750-d6bd-c5b9217a804f.jpg",
-        "w": "10",
+        "w": "11",
         "l": "10",
         "t": "0",
-        "pct": ".500",
-        "gb": "4"
+        "pct": ".524",
+        "gb": "3.5"
       },
       {
         "positie": "6",
         "team": "Stade Toulousain Tigers",
         "logo": "https://static.wbsc.org/upload/83428e38-f463-52e1-0571-48f71aa9fc31.jpg",
-        "w": "9",
+        "w": "10",
         "l": "11",
         "t": "0",
-        "pct": ".450",
-        "gb": "5"
+        "pct": ".476",
+        "gb": "4.5"
       },
       {
         "positie": "7",
@@ -78,10 +78,10 @@
         "team": "Paris Université Club",
         "logo": "https://static.wbsc.org/upload/01986991-2958-d994-bd39-28ab3d9d6466.jpg",
         "w": "3",
-        "l": "17",
+        "l": "18",
         "t": "0",
-        "pct": ".150",
-        "gb": "11"
+        "pct": ".143",
+        "gb": "11.5"
       }
     ]
   }
