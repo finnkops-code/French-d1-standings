@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-25T19:14:29Z",
+  "bijgewerkt": "2026-07-25T20:57:31Z",
   "bron": "https://baseballtv.fr/en/classements/",
   "standen": {
     "Regular season": [
@@ -7,10 +7,10 @@
         "positie": "1",
         "team": "Savigny-sur-Orge Lions",
         "logo": "https://static.wbsc.org/upload/e20fa02b-5959-2c18-2def-c682eb6a540f.jpg",
-        "w": "14",
+        "w": "15",
         "l": "6",
         "t": "0",
-        "pct": ".700",
+        "pct": ".714",
         "gb": "-"
       },
       {
@@ -21,7 +21,7 @@
         "l": "7",
         "t": "0",
         "pct": ".667",
-        "gb": "0.5"
+        "gb": "1"
       },
       {
         "positie": "3",
@@ -31,7 +31,7 @@
         "l": "8",
         "t": "0",
         "pct": ".652",
-        "gb": "0.5"
+        "gb": "1"
       },
       {
         "positie": "4",
@@ -41,7 +41,7 @@
         "l": "9",
         "t": "0",
         "pct": ".571",
-        "gb": "2.5"
+        "gb": "3"
       },
       {
         "positie": "5",
@@ -51,7 +51,7 @@
         "l": "10",
         "t": "0",
         "pct": ".524",
-        "gb": "3.5"
+        "gb": "4"
       },
       {
         "positie": "6",
@@ -61,17 +61,17 @@
         "l": "11",
         "t": "0",
         "pct": ".476",
-        "gb": "4.5"
+        "gb": "5"
       },
       {
         "positie": "7",
         "team": "Béziers Pirates",
         "logo": "https://static.wbsc.org/upload/54f7aee7-2dea-f878-4244-591fd30486d0.jpg",
         "w": "6",
-        "l": "16",
+        "l": "17",
         "t": "0",
-        "pct": ".273",
-        "gb": "9"
+        "pct": ".261",
+        "gb": "10"
       },
       {
         "positie": "8",
@@ -81,7 +81,7 @@
         "l": "18",
         "t": "0",
         "pct": ".143",
-        "gb": "11.5"
+        "gb": "12"
       }
     ]
   }
