@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-26T12:07:04Z",
+  "bijgewerkt": "2026-07-26T14:39:19Z",
   "bron": "https://baseballtv.fr/en/classements/",
   "standen": {
     "Regular season": [
@@ -17,31 +17,31 @@
         "positie": "2",
         "team": "Montpellier Barracudas",
         "logo": "https://static.wbsc.org/upload/51a28c3c-a894-cc4d-30ca-b8c705e5bd5d.png",
-        "w": "14",
+        "w": "15",
         "l": "7",
         "t": "0",
-        "pct": ".667",
-        "gb": "1"
+        "pct": ".682",
+        "gb": "0.5"
       },
       {
         "positie": "3",
         "team": "La Rochelle Boucaniers",
         "logo": "https://static.wbsc.org/upload/0050079f-5f9e-d803-8839-20992d9cfc18.jpg",
         "w": "15",
-        "l": "8",
+        "l": "9",
         "t": "0",
-        "pct": ".652",
-        "gb": "1"
+        "pct": ".625",
+        "gb": "1.5"
       },
       {
         "positie": "4",
         "team": "Rouen Huskies",
         "logo": "https://static.wbsc.org/assets/cms/teams/logo/a18c7fc9-a3ce-81e9-0c12-f2a5ec8eab1e.jpg",
-        "w": "12",
+        "w": "13",
         "l": "9",
         "t": "0",
-        "pct": ".571",
-        "gb": "3"
+        "pct": ".591",
+        "gb": "2.5"
       },
       {
         "positie": "5",
@@ -58,10 +58,10 @@
         "team": "Stade Toulousain Tigers",
         "logo": "https://static.wbsc.org/upload/83428e38-f463-52e1-0571-48f71aa9fc31.jpg",
         "w": "10",
-        "l": "11",
+        "l": "12",
         "t": "0",
-        "pct": ".476",
-        "gb": "5"
+        "pct": ".455",
+        "gb": "5.5"
       },
       {
         "positie": "7",
