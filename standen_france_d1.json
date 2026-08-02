@@ -1,8 +1,18 @@
 {
-  "bijgewerkt": "2026-08-02T18:02:05Z",
+  "bijgewerkt": "2026-08-02T20:12:18Z",
   "bron": "https://baseballtv.fr/en/classements/",
   "standen": {
     "Regular season": [
+      {
+        "positie": "1",
+        "team": "Montpellier Barracudas",
+        "logo": "https://static.wbsc.org/upload/51a28c3c-a894-cc4d-30ca-b8c705e5bd5d.png",
+        "w": "17",
+        "l": "7",
+        "t": "0",
+        "pct": ".708",
+        "gb": "-"
+      },
       {
         "positie": "1",
         "team": "Savigny-sur-Orge Lions",
@@ -12,16 +22,6 @@
         "t": "0",
         "pct": ".708",
         "gb": "-"
-      },
-      {
-        "positie": "2",
-        "team": "Montpellier Barracudas",
-        "logo": "https://static.wbsc.org/upload/51a28c3c-a894-cc4d-30ca-b8c705e5bd5d.png",
-        "w": "17",
-        "l": "7",
-        "t": "0",
-        "pct": ".708",
-        "gb": "0.5"
       },
       {
         "positie": "3",
@@ -61,7 +61,7 @@
         "l": "14",
         "t": "0",
         "pct": ".417",
-        "gb": "6.5"
+        "gb": "7"
       },
       {
         "positie": "7",
