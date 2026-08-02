@@ -1,36 +1,36 @@
 {
-  "bijgewerkt": "2026-08-02T10:00:56Z",
+  "bijgewerkt": "2026-08-02T12:05:38Z",
   "bron": "https://baseballtv.fr/en/classements/",
   "standen": {
     "Regular season": [
       {
         "positie": "1",
+        "team": "Savigny-sur-Orge Lions",
+        "logo": "https://static.wbsc.org/upload/e20fa02b-5959-2c18-2def-c682eb6a540f.jpg",
+        "w": "17",
+        "l": "7",
+        "t": "0",
+        "pct": ".708",
+        "gb": "-"
+      },
+      {
+        "positie": "2",
         "team": "Montpellier Barracudas",
         "logo": "https://static.wbsc.org/upload/51a28c3c-a894-cc4d-30ca-b8c705e5bd5d.png",
         "w": "16",
         "l": "7",
         "t": "0",
         "pct": ".696",
-        "gb": "-"
-      },
-      {
-        "positie": "1",
-        "team": "Savigny-sur-Orge Lions",
-        "logo": "https://static.wbsc.org/upload/e20fa02b-5959-2c18-2def-c682eb6a540f.jpg",
-        "w": "16",
-        "l": "7",
-        "t": "0",
-        "pct": ".696",
-        "gb": "-"
+        "gb": "0.5"
       },
       {
         "positie": "3",
         "team": "Rouen Huskies",
         "logo": "https://static.wbsc.org/assets/cms/teams/logo/a18c7fc9-a3ce-81e9-0c12-f2a5ec8eab1e.jpg",
-        "w": "14",
+        "w": "15",
         "l": "9",
         "t": "0",
-        "pct": ".609",
+        "pct": ".625",
         "gb": "2"
       },
       {
@@ -38,19 +38,19 @@
         "team": "La Rochelle Boucaniers",
         "logo": "https://static.wbsc.org/upload/0050079f-5f9e-d803-8839-20992d9cfc18.jpg",
         "w": "15",
-        "l": "10",
+        "l": "11",
         "t": "0",
-        "pct": ".600",
-        "gb": "2"
+        "pct": ".577",
+        "gb": "3"
       },
       {
         "positie": "5",
         "team": "Sénart Templiers",
         "logo": "https://static.wbsc.org/assets/cms/teams/logo/1071d9a2-1565-7750-d6bd-c5b9217a804f.jpg",
-        "w": "12",
+        "w": "13",
         "l": "11",
         "t": "0",
-        "pct": ".522",
+        "pct": ".542",
         "gb": "4"
       },
       {
@@ -61,27 +61,27 @@
         "l": "13",
         "t": "0",
         "pct": ".435",
-        "gb": "6"
+        "gb": "6.5"
       },
       {
         "positie": "7",
         "team": "Béziers Pirates",
         "logo": "https://static.wbsc.org/upload/54f7aee7-2dea-f878-4244-591fd30486d0.jpg",
         "w": "8",
-        "l": "17",
+        "l": "18",
         "t": "0",
-        "pct": ".320",
-        "gb": "9"
+        "pct": ".308",
+        "gb": "10"
       },
       {
         "positie": "8",
         "team": "Paris Université Club",
         "logo": "https://static.wbsc.org/upload/01986991-2958-d994-bd39-28ab3d9d6466.jpg",
         "w": "3",
-        "l": "20",
+        "l": "21",
         "t": "0",
-        "pct": ".130",
-        "gb": "13"
+        "pct": ".125",
+        "gb": "14"
       }
     ]
   }
